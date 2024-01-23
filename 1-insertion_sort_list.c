@@ -10,6 +10,7 @@ void swap_nodes(listint_t **h, listint_t **n1, listint_t *n2)
 {
 	listint_t **a;
 	listint_t *b;
+
 	a = n1;
 	b = n2;
 
