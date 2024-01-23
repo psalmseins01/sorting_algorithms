@@ -1,7 +1,7 @@
 #include "sort.h"
 
 /**
- * swap_ints - Swaps two integers in a given array
+ * swap_int_elems - Swaps two integers in a given array
  * @a: Pointer to argument a
  * @b: Pointer to argument b
  * Return: return void
